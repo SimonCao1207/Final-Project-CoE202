@@ -15,9 +15,6 @@ Image           |  Ground Truth
 
 - [Here](https://drive.google.com/drive/folders/1wRCCHdgyE0O0KJezTo0Mzf9WkMHl3-oO?usp=sharing) is the public data used for submission.
 
-# Result
-
-
 ## Report 
 - More infomation about the model architecture as well as my full approach to this task can be find in "final report" folder
 
